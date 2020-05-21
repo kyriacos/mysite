@@ -406,6 +406,7 @@ body {
 	font-size: 25px;
 	display: inline-block;
 	/* background-color: black; */
+	background-color: white;
 	-webkit-transition: background-color .5s ease-in-out;
 	-moz-transition: background-color .5s ease-in-out;
 	-ms-transition: background-color .5s ease-in-out;
